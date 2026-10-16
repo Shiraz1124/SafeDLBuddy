@@ -5,3 +5,5 @@
 **/.env
 backend/service-account-key.json
 safeDLbuddy_key_0615.pem
+backend/google-auth.json
+backend/dropbox-auth.json
